@@ -24,6 +24,7 @@ Concretely, that means things like a 63-line pure function with final authority 
 | Project | What it is | Live |
 |---|---|---|
 | **[Attune](https://github.com/aqsa-svg/attune)** | Wellness app whose AI coach refuses to invent patterns — a pure, unit-tested grounding gate rejects any model output that references a habit you don't have or claims a pattern before 7 days of data | [demo](https://attune-sigma-khaki.vercel.app) |
+| **[Job Copilot](https://github.com/aqsa-svg/job-copilot)** | Tailors your resume to a job description without inventing experience — it surfaces the gaps instead, and scores ATS-friendliness with transparent rules rather than an LLM | [API docs](https://job-copilot-api.vercel.app/docs) |
 | **[ITC Guard](https://github.com/aqsa-svg/itc-guard)** | Reconciles an Indian business's purchase register against GSTR-2B to surface at-risk input tax credit — and states plainly what the data cannot decide | — |
 | **[Production RAG Pipeline](https://github.com/aqsa-svg/rag-layer)** | Hybrid BM25 + dense retrieval with Reciprocal Rank Fusion, ONNX cross-encoder reranking, and a RAGAS evaluation layer. No framework — direct API calls | — |
 | **[Self-Healing Multi-Agent System](https://github.com/aqsa-svg/multi_agent)** | Five LangGraph agents plan, pull from GitHub, run tests in Docker, review, then patch the failing code and loop back. 30 tests pass with no keys and no daemon | — |
