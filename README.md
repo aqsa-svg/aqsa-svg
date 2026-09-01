@@ -1,6 +1,6 @@
 # Aqsa Siddiqui
 
-**Generative AI Engineer** — production LLM systems, RAG pipelines, multi-agent orchestration, and the evaluation harnesses that keep them honest.
+**Generative AI Engineer** production LLM systems, RAG pipelines, multi-agent orchestration, and the evaluation harnesses that keep them honest.
 
 Based in Lucknow, India · working remote · [aqsa-portfolio-mu.vercel.app](https://aqsa-portfolio-mu.vercel.app)
 
