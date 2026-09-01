@@ -14,7 +14,7 @@ Concretely, that means things like a 63-line pure function with final authority 
 
 ## Currently
 
-**Machine Learning & Generative AI Engineer @ Fansify** · Dec 2025 – Present · Remote
+**Machine Learning & Generative AI Engineer @ Fansify** · Jun 2025 – Present · Remote
 
 - Built and evaluated production ML models with Python and scikit-learn, achieving **15%+ accuracy improvements** through advanced feature engineering and ensemble techniques.
 - Architected and deployed Generative AI features into production ML pipelines, and designed REST APIs integrating LLM inference with model predictions — **reducing latency by 40%**.
